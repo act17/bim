@@ -7,7 +7,7 @@ int main() {
   int rulescheck = 0;
   char choicecheck = 0;
   char version[4] = "0.1";
-  char date[9] = "22/10/17";
+  char date[9] = "22/10/18";
 
   printf("\n\nBim: Dr. Nim's Slacker Cousin");
   printf("\nA game by ACT");
